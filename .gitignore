@@ -11,7 +11,6 @@ __pycache__/
 
 # Environment Variables & Secrets (CRITICAL)
 .env
-.env.*
 !.env.example
 
 # Databases (if using local SQLite)
